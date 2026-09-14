@@ -1,4 +1,4 @@
-# AI-Food-Safety-Risk-Analysis-from-Restaurant-Inspection-Data
+<img width="883" height="635" alt="image" src="https://github.com/user-attachments/assets/f255f557-7ce3-4e81-8a71-0e04e42415dc" /># AI-Food-Safety-Risk-Analysis-from-Restaurant-Inspection-Data
 This project applies data analysis, statistical methods, and machine learning to restaurant inspection data to identify patterns associated with food-safety risks and inspection failures.
 
 
@@ -83,6 +83,10 @@ EDA was performed to understand the distribution of:
 * Inspection frequencies
 * Business characteristics
 * Violations
+  
+
+
+  <img width="883" height="635" alt="image" src="https://github.com/user-attachments/assets/ca0d2800-e759-4872-99d3-1096f6a867d8" />
 
   <img width="873" height="366" alt="image" src="https://github.com/user-attachments/assets/f12a61cc-0ae9-4a6c-be3c-0b8bfed4f4b4" />
   <img width="883" height="635" alt="image" src="https://github.com/user-attachments/assets/79c3986c-cad3-4d69-8471-da9854a9eefd" />
@@ -112,6 +116,9 @@ Inspection results were analyzed to understand the frequency of:
 * Not Ready
 
 This analysis helps identify overall inspection-performance patterns and the prevalence of unsuccessful inspections.
+
+<img width="883" height="635" alt="image" src="https://github.com/user-attachments/assets/6de97691-e4a0-4a9c-a5b0-d05cf5ea9c60" />
+
 
 <img width="883" height="635" alt="image" src="https://github.com/user-attachments/assets/cfceca79-e859-4d88-8b07-cc06cb7ff7e8" />
 <img width="883" height="635" alt="image" src="https://github.com/user-attachments/assets/4d284cf9-a324-4274-b476-f1cdf0f0568b" />
