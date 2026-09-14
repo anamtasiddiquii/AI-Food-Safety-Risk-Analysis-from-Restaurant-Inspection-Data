@@ -1,4 +1,4 @@
-<img width="883" height="635" alt="image" src="https://github.com/user-attachments/assets/f255f557-7ce3-4e81-8a71-0e04e42415dc" /># AI-Food-Safety-Risk-Analysis-from-Restaurant-Inspection-Data
+# AI-Food-Safety-Risk-Analysis-from-Restaurant-Inspection-Data
 This project applies data analysis, statistical methods, and machine learning to restaurant inspection data to identify patterns associated with food-safety risks and inspection failures.
 
 
@@ -6,6 +6,10 @@ An end-to-end data science project analyzing restaurant inspection records to id
 
 The project demonstrates practical skills in **data cleaning, exploratory data analysis (EDA), statistical analysis, visualization, temporal analysis, geographic analysis, feature engineering, and predictive modeling** using Python.
 
+
+## DATASET
+
+[Food Inspections Dataset](https://www.kaggle.com/datasets/chicago/chicago-food-inspections/data)
 ---
 
 ## Project Overview
