@@ -88,12 +88,13 @@ EDA was performed to understand the distribution of:
 * Business characteristics
 * Violations
   
+<img width="897" height="356" alt="image" src="https://github.com/user-attachments/assets/dc27c51a-8482-4834-bd42-ee0bc000621e" />
+<img width="829" height="426" alt="image" src="https://github.com/user-attachments/assets/40120a83-4e67-40a3-b4ed-0c90a74fb57e" />
+<img width="921" height="607" alt="image" src="https://github.com/user-attachments/assets/148bb296-1e87-4f27-bb69-6b5c451ae7f6" />
+<img width="901" height="606" alt="image" src="https://github.com/user-attachments/assets/25775cab-fcdc-43be-819e-a2b26e66c5ea" />
 
 
-  <img width="883" height="635" alt="image" src="https://github.com/user-attachments/assets/ca0d2800-e759-4872-99d3-1096f6a867d8" />
 
-  <img width="873" height="366" alt="image" src="https://github.com/user-attachments/assets/f12a61cc-0ae9-4a6c-be3c-0b8bfed4f4b4" />
-  <img width="883" height="635" alt="image" src="https://github.com/user-attachments/assets/79c3986c-cad3-4d69-8471-da9854a9eefd" />
   
 
 
@@ -105,6 +106,7 @@ EDA was performed to understand the distribution of:
 
 The distribution of facility types was analyzed across different food-safety risk categories to identify which types of establishments were most frequently associated with higher-risk inspections.
 
+<img width="864" height="359" alt="image" src="https://github.com/user-attachments/assets/0632cc5a-90c1-4483-b033-e4e4b5b3672f" />
 <img width="883" height="635" alt="image" src="https://github.com/user-attachments/assets/66b1328a-40e8-4488-be84-5938085047e0" />
 <img width="883" height="635" alt="image" src="https://github.com/user-attachments/assets/22ff6e9a-ccb1-441a-949a-7b3f5ab53486" />
 
@@ -177,6 +179,12 @@ Violation information was transformed into structured indicators to enable analy
 * Recurring violation categories
 * Violation frequency across establishments
 
+  
+  <img width="825" height="613" alt="image" src="https://github.com/user-attachments/assets/6f99e7c8-ab17-4687-9a72-7c8b7be4557a" />
+
+  <img width="620" height="322" alt="image" src="https://github.com/user-attachments/assets/24af4e2b-fdc8-4523-bba1-62beb57b9c8a" />
+
+
 This transformation allows unstructured violation information to be incorporated into statistical and machine-learning analysis.
 
 
@@ -198,6 +206,12 @@ Example features include:
 * Restaurant characteristics
 
 These features provide a structured representation of restaurant inspection behavior for predictive modeling.
+<img width="714" height="464" alt="image" src="https://github.com/user-attachments/assets/2d278759-97ba-470a-8d6e-9cb72895e3c6" />
+<img width="721" height="461" alt="image" src="https://github.com/user-attachments/assets/8a48160c-22b3-4862-9d4c-8fc979e38e5d" />
+<img width="743" height="456" alt="image" src="https://github.com/user-attachments/assets/b24eab9c-b836-48be-9fe4-72dcadff2577" />
+
+
+
 
 
 ## 9. Predictive Modeling
@@ -214,6 +228,9 @@ The predictive modeling pipeline includes:
 6. Comparison of model performance
 
 The modeling stage demonstrates how historical inspection information can be transformed into predictive signals for food-safety risk assessment.
+
+<img width="639" height="435" alt="image" src="https://github.com/user-attachments/assets/7c342df5-cf95-4aba-ae9e-1893acf55c88" />
+<img width="662" height="445" alt="image" src="https://github.com/user-attachments/assets/75e13ca7-0b30-4a41-878c-60767ae1fc9b" />
 
 
 
