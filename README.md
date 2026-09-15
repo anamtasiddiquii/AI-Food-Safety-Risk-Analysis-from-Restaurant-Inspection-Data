@@ -1,5 +1,6 @@
 # AI-Food-Safety-Risk-Analysis-from-Restaurant-Inspection-Data
 This project applies data analysis, statistical methods, and machine learning to restaurant inspection data to identify patterns associated with food-safety risks and inspection failures.
+<img width="867" height="502" alt="image" src="https://github.com/user-attachments/assets/e9ef05a6-3a01-4272-b7f2-7a56826c5439" />
 
 
 An end-to-end data science project analyzing restaurant inspection records to identify food-safety risk patterns, inspection trends, recurring violations, geographic patterns, and factors associated with inspection outcomes.
@@ -126,7 +127,7 @@ This analysis helps identify overall inspection-performance patterns and the pre
 <img width="883" height="635" alt="image" src="https://github.com/user-attachments/assets/6de97691-e4a0-4a9c-a5b0-d05cf5ea9c60" />
 
 
-<img width="883" height="635" alt="image" src="https://github.com/user-attachments/assets/cfceca79-e859-4d88-8b07-cc06cb7ff7e8" />
+
 
 
 
@@ -151,7 +152,6 @@ Restaurant-level inspection histories were constructed using previous inspection
 
 The analysis investigates whether establishments with previous failures are more likely to experience subsequent failures.
 
-**Screenshot:** Insert your previous-vs-current inspection analysis here.
 
 ## 6. Geographic Analysis
 
@@ -301,8 +301,7 @@ AI-Driven-Food-Safety-Risk-Analysis/
 │
 ├── food-inspections-in-chicago-eda-and-modeling.ipynb
 ├── README.md
-└── data/
-    └── food_inspections.csv
+
 ```
 
 
