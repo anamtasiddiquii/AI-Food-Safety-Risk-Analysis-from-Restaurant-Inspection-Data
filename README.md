@@ -108,7 +108,7 @@ The distribution of facility types was analyzed across different food-safety ris
 
 <img width="864" height="359" alt="image" src="https://github.com/user-attachments/assets/0632cc5a-90c1-4483-b033-e4e4b5b3672f" />
 <img width="883" height="635" alt="image" src="https://github.com/user-attachments/assets/66b1328a-40e8-4488-be84-5938085047e0" />
-<img width="883" height="635" alt="image" src="https://github.com/user-attachments/assets/22ff6e9a-ccb1-441a-949a-7b3f5ab53486" />
+
 
 
 ## 3. Inspection Outcome Analysis
@@ -127,7 +127,7 @@ This analysis helps identify overall inspection-performance patterns and the pre
 
 
 <img width="883" height="635" alt="image" src="https://github.com/user-attachments/assets/cfceca79-e859-4d88-8b07-cc06cb7ff7e8" />
-<img width="883" height="635" alt="image" src="https://github.com/user-attachments/assets/4d284cf9-a324-4274-b476-f1cdf0f0568b" />
+
 
 
 ## 4. Temporal Analysis
